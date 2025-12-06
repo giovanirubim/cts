@@ -1,0 +1,24 @@
+{
+	"name": "cts",
+	"version": "0.0.0",
+	"description": "C interpreter written in typescript",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/giovanirubim/cts.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "module",
+	"bugs": {
+		"url": "https://github.com/giovanirubim/cts/issues"
+	},
+	"homepage": "https://github.com/giovanirubim/cts#readme",
+	"devDependencies": {
+		"typescript": "^5.9.3"
+	}
+}
